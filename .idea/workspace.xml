@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b822ba9-b2c9-4cf8-8b5f-9bc1726cd1b8" name="Changes" comment="a aula foi legal, muito joia">
-      <change afterPath="$PROJECT_DIR$/src/Casal.java" afterDir="false" />
+    <list default="true" id="5b822ba9-b2c9-4cf8-8b5f-9bc1726cd1b8" name="Changes" comment="balonismo">
+      <change afterPath="$PROJECT_DIR$/src/Piloto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Balao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Balao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Casal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Casal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1685616590810</updated>
       <workItem from="1686046671616" duration="3426000" />
-      <workItem from="1687864152588" duration="2208000" />
+      <workItem from="1687864152588" duration="2493000" />
+      <workItem from="1690884964652" duration="1214000" />
     </task>
     <task id="LOCAL-00001" summary="a aula foi legal, muito joia">
       <created>1686049988675</created>
@@ -61,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686049988675</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="balonismo">
+      <created>1687867716469</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687867716470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a aula foi legal, muito joia" />
-    <option name="LAST_COMMIT_MESSAGE" value="a aula foi legal, muito joia" />
+    <MESSAGE value="balonismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="balonismo" />
   </component>
 </project>
